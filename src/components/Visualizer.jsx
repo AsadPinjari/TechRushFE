@@ -1,0 +1,1 @@
+// Adds visual animations when notes are played

@@ -1,0 +1,1 @@
+// Shared layout wrapper (header, footer, etc.)
